@@ -9,4 +9,5 @@ This Model includes:
 4. Dense to Sparse, Sparse to Dense conversion
 5. SVM, Naive Bayes, using 10x Cross Validation
 6. Bagging using Random Forest
-7. Testing
+7. Random Forest using 10x Cross Validation
+8. Testing
